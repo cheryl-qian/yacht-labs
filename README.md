@@ -1,3 +1,3 @@
-# Yacht Labs
+# XXXXXXXXXX Labs
 
-www.yacht-labs.com
+www.XXXXXXXXXX-labs.com
