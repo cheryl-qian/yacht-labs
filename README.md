@@ -1,3 +1,3 @@
-# XXXXXXXXXX Labs
+Sea Of Tar Labs
 
-www.XXXXXXXXXX-labs.com
+www.seaoftar-labs.com
