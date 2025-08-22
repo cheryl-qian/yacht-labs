@@ -1,3 +1,3 @@
-Sea Of Tar Labs
+sea of tar domain management service
 
 www.seaoftar-labs.com
